@@ -1,0 +1,24 @@
+{
+  "name": "jwtNode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-useragent": "^1.0.15",
+    "jsonwebtoken": "^8.5.1",
+    "method-override": "^3.0.0",
+    "multer": "^1.4.5-lts.1",
+    "node-thumbnail": "^0.15.0",
+    "nodemon": "^2.0.20",
+    "redis": "^4.5.0",
+    "util": "^0.12.5",
+    "winston": "^3.8.2",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}
